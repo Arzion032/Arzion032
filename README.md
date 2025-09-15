@@ -5,7 +5,7 @@
 
 Hi 👋 I'm **Jhon Melvin P. Sarabia** and I’m passionate about all things **data & machine learning 🤖📊**.  
 
-I want to specialize in **data/analytics engineering** 🧹💾 aiming to design reliable pipelines that power real-world AI and analytics applications. I’m also fascinated by backend development ⚙️  always curious to learn how things work under the hood.
+I want to specialize in **data/analytics engineering** 🧹💾 aiming to design reliable pipelines that power real-world AI and analytics applications. Backend development continues to capture my interest ⚙️.
 
 Outside of programming, I’m into **dance 💃, modeling 📸, gym 🏋️, and kickboxing 🥊**.  
 
