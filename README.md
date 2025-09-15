@@ -21,28 +21,6 @@ Outside of programming, I’m into **dance 💃, modeling 📸, gym workouts �
 <a href="https://discord.gg/1029990723640098907" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1029990723640098907" height="30" width="40" /></a>
 </p>
 
-<div align="center">
-<h2> Checkout my <b>stats</b>! </h2>
-</div>
-
-###
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Arzion032&theme=dracula&hide_border=true&card_height=150" alt="GitHub Streak" />
-  <img src="https://github-profile-trophy.vercel.app?username=Arzion032&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="125" alt="trophy graph"  />
-</div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="hhttps://raw.githubusercontent.com/Arzion032/Arzion032/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arzion032/Arzion032/output/pacman-contribution-graph.svg
-  ">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Arzion032/Arzion032/output/pacman-contribution-graph-dark.svg">
-</picture>
-
-
-
-
 ### My Tech Stack
 #### Languages 
 ![Python](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python) 
@@ -79,16 +57,23 @@ Outside of programming, I’m into **dance 💃, modeling 📸, gym workouts �
 ![Django](https://img.shields.io/badge/Django-white?style=for-the-badge&logo=django)
 
 <div align="center">
-    <h2> Checkout my <b>stats</b>! </h2>
-    <a href="https://github-readme-stats.vercel.app">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=arzion032&show_icons=true&locale=en&theme=dracula" alt="Arzion032 Stats" />
-    </a>
-    <h3> What languages do I code? </h3>
-    <a href="https://git.io/streak-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arzion032&layout=compact&langs_count=10&theme=dracula" alt="Arzion032 Programs" />
-    </a>
-
+<h2> Checkout my <b>stats</b>! </h2>
 </div>
+
+###
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Arzion032&theme=dracula&hide_border=true&card_height=150" alt="GitHub Streak" />
+  <img src="https://github-profile-trophy.vercel.app?username=Arzion032&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="125" alt="trophy graph"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="hhttps://raw.githubusercontent.com/Arzion032/Arzion032/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arzion032/Arzion032/output/pacman-contribution-graph.svg
+  ">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Arzion032/Arzion032/output/pacman-contribution-graph-dark.svg">
+</picture>
 
 
 ###
