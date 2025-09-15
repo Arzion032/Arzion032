@@ -4,10 +4,13 @@
 </div
 
 
+Hi! I'm Jhon Melvin P. Sarabia and I’m passionate about all things data & machine learning 🤖📊.
+
+I want to specialize in data engineering 🧹💾 — the art of cleaning, transforming, and building pipelines so others can unlock insights. Backend development also sparks my curiosity ⚙️.
+
+Outside of programming, I’m into dance 💃, modeling 📸, gym workouts 🏋️, and kickboxing 🥊.
+
 ###
-
-
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Arzion032&theme=dracula&hide_border=true&card_height=150" alt="GitHub Streak" />
   <img src="https://github-profile-trophy.vercel.app?username=Arzion032&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="125" alt="trophy graph"  />
