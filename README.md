@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Melvin Sarabia</h1>
 <h3 align="center">An aspiring Analytics/Data Engineer from Philippines!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arzion032&label=Profile%20views&color=0e75b6&style=flat" alt="arzion032" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=arzion032&label=Profile%20views&color=0e75b6&style=flat" alt="arzion032" /> </p> -->
+
+<h2> Checkout my <b>stats</b>! </h2>
 
 ###
 
