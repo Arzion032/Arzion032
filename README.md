@@ -21,7 +21,13 @@ Outside of programming, I’m into **dance 💃, modeling 📸, gym workouts �
 <a href="https://discord.gg/1029990723640098907" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1029990723640098907" height="30" width="40" /></a>
 </p>
 
-### My Tech Stack
+
+<div align="center">
+<h3>My Tech Stack</h3>
+
+---
+</div>
+
 #### Languages 
 ![Python](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python) 
 ![SQL](https://img.shields.io/badge/SQL-white?style=for-the-badge&logo=sql) 
