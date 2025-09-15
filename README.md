@@ -40,7 +40,7 @@ Outside of programming, I’m into **dance 💃, modeling 📸, gym workouts �
 ![dbt](https://img.shields.io/badge/dbt-white?style=for-the-badge&logo=dbt) 
 ![Spark](https://img.shields.io/badge/Spark-white?style=for-the-badge&logo=apachespark) 
 #### Cloud Computing
-![GCP](https://img.shields.io/badge/Google+Cloud+Platform-white?style=for-the-badge&logo=googlecloudplatform&logoColor=black) 
+![GCP](https://img.shields.io/badge/GCP-white?style=for-the-badge&logo=googlecloudplatform&logoColor=black) 
 #### CI/CD
 ![Git](https://img.shields.io/badge/Git-white?style=for-the-badge&logo=git) 
 ![GitHub](https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=black)
@@ -82,7 +82,7 @@ Outside of programming, I’m into **dance 💃, modeling 📸, gym workouts �
   <source media="(prefers-color-scheme: dark)" srcset="hhttps://raw.githubusercontent.com/Arzion032/Arzion032/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arzion032/Arzion032/output/pacman-contribution-graph.svg
   ">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Arzion032/Arzion032/output/pacman-contribution-graph-dark.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Arzion032/Arzion032/output/pacman-contribution-graph-dark.svg" height="150">
 </picture>
 
 
