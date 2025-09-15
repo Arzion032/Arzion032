@@ -94,47 +94,47 @@ Outside of programming, I’m into **dance 💃, modeling 📸, gym workouts �
 
 <p align="center">
   <a href="https://linkedin.com/in/melvin-sarabia">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="melvin-sarabia" height="60" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="melvin-sarabia" height="60"  />
   </a>
   <img width="20" />
   
   <a href="https://stackoverflow.com/users/26556726">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="26556726" height="60" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="26556726" height="60"  />
   </a>
   <img width="20" />
   
   <a href="https://www.leetcode.com/arzion032">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arzion032" height="60" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arzion032" height="60"  />
   </a>
   <img width="20" />
   
   <a href="https://www.hackerrank.com/jmelvinsarabia01">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jmelvinsarabia01" height="60" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jmelvinsarabia01" height="60"  />
   </a>
   <img width="20" />
   
   <a href="https://kaggle.com/melvinsarabia">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="melvinsarabia" height="60" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="melvinsarabia" height="60"  />
   </a>
   <img width="20" />
   
   <a href="https://www.datacamp.com/portfolio/arzion032">
-    <img align="center" src="https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/hq30ze9287y9ztkmcdhy" alt="datacamp-arzion032" height="60" width="40" />
+    <img align="center" src="https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/hq30ze9287y9ztkmcdhy" alt="datacamp-arzion032" height="60"  />
   </a>
   <img width="20" />
   
   <a href="https://discord.gg/1029990723640098907">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="60" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="60"  />
   </a>
   <img width="20" />
   
   <a href="https://instagram.com/melvss__">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="melvss__" height="60" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="melvss__" height="60"  />
   </a>
   <img width="20" />
   
   <a href="https://fb.com/ratatoiulleyy">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ratatoiulleyy" height="60" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ratatoiulleyy" height="60"  />
   </a>
 </p>
 
