@@ -23,6 +23,9 @@ Outside of programming, I’m into **dance 💃, modeling 📸, gym workouts �
 
 
 <div align="center">
+
+---
+
 <h3>My Tech Stack</h3>
 
 ---
