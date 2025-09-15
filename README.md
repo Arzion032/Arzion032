@@ -29,9 +29,11 @@ Outside of programming, I’m into **dance 💃, modeling 📸, gym workouts �
 
 <div align="center">
 <strong>Checkout my stats!</strong>
+
 ---
 
 </div>
+
 ###
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Arzion032&theme=dracula&hide_border=true&card_height=150" alt="GitHub Streak" />
