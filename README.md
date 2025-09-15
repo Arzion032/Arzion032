@@ -66,7 +66,13 @@ Outside of programming, I’m into **dance 💃, modeling 📸, gym workouts �
 ![Django](https://img.shields.io/badge/Django-white?style=for-the-badge&logo=django)
 
 <div align="center">
-<h2> Checkout my <b>stats</b>! </h2>
+
+---
+
+<h3> Checkout My Stats! </h3>
+
+---
+
 </div>
 
 ###
