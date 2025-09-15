@@ -1,16 +1,16 @@
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=consolas&size=50&duration=4000&color=FFA657&center=true&vCenter=true&width=550&height=75&lines=Melvin+Sarabia;Data+Daddy/Janitor;Data/AI+Enthusiast;Python%2B+SQL+%3D+BOOM!">
+<img src="https://readme-typing-svg.herokuapp.com?font=consolas&size=50&duration=4000&color=FFA657&center=true&vCenter=true&width=550&height=75&lines=Melvin+Sarabia;Data+Daddy/Janitor;Data/AI+Enthusiast;Python%2BSQL%3DBOOM!">
   <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=arzion032&label=Profile%20views&color=0e75b6&style=flat" alt="arzion032" /> </p> -->
 </div
 
 
 ###
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Arzion032&theme=dracula&hide_border=true&card_height=150)](https://git.io/streak-stats)
+
 
 <div align="center">
-
-  <img src="https://github-profile-trophy.vercel.app?username=Arzion032&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://streak-stats.demolab.com?user=Arzion032&theme=dracula&hide_border=true&card_height=150" alt="GitHub Streak" />
+  <img src="https://github-profile-trophy.vercel.app?username=Arzion032&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="125" alt="trophy graph"  />
 </div>
 
 ###
