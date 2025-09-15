@@ -58,8 +58,8 @@
 
 <div align="center">
     <h2> Checkout my <b>stats</b>! </h2>
-    <a href="https://git.io/streak-stats">
-        <img align="center" src="https://streak-stats.demolab.com/?user=Arzion032" alt="Arzion032 Stats" />
+    <a href="https://github-readme-stats.vercel.app">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=arzion032&show_icons=true&locale=en" alt="Arzion032 Stats" />
     </a>
     <h3> What languages do I code? </h3>
     <a href="https://git.io/streak-stats">
@@ -67,12 +67,6 @@
     </a>
 
 </div>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arzion032&show_icons=true&locale=en&layout=compact" alt="arzion032" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arzion032&show_icons=true&locale=en" alt="arzion032" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arzion032&" alt="arzion032" /></p>
 
 
 ###
