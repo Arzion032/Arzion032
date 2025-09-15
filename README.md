@@ -9,7 +9,7 @@ I want to specialize in **data/analytics engineering 🧹💾** — the art of c
 
 Outside of programming, I’m into **dance 💃, modeling 📸, gym workouts 🏋️, and kickboxing 🥊**.  
 
-<div style="margin-top: 5px;"></div>
+<div style="margin-top: 15px;"></div>
 
 <div align="center">
 
