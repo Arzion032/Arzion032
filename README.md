@@ -11,7 +11,7 @@ Outside of programming, I’m into **dance 💃, modeling 📸, gym workouts �
 
 
 <div align="center">
-<div style="margin-top: 5px;"></div>
+<div style="margin-top: 10px;"></div>
 
 ---
 
