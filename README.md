@@ -11,6 +11,7 @@ Outside of programming, I’m into **dance 💃, modeling 📸, gym workouts �
 
 
 <div align="center">
+<br/>
 
 ---
 
@@ -84,9 +85,6 @@ Outside of programming, I’m into **dance 💃, modeling 📸, gym workouts �
 ---
 
 <h3>Connect with me</h3>
-
-
----
 
 <p align="center">
 <a href="https://linkedin.com/in/melvin-sarabia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="melvin-sarabia" height="60" width="40" /></a>
