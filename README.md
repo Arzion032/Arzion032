@@ -1,9 +1,20 @@
 <h1 align="center">Hi 👋, I'm Melvin Sarabia</h1>
-<h3 align="center">An aspiring Analytics/Data Engineer from Philippines!</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=consolas&size=50&duration=4000&color=FFA657&center=true&vCenter=true&width=550&height=75&lines=Melvin+Sarabia;Data+Daddy/Janitor;Data/AI+Enthusiast;Python+SQL+=+BOOM!">
+</div
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=arzion032&label=Profile%20views&color=0e75b6&style=flat" alt="arzion032" /> </p> -->
 
+###
+
+- 🔭 I’m currently working on **ETL**
+
+- 🌱 I’m currently learning **PySpark, Databricks, AWS**
+
+
+<div align="center">
 <h2> Checkout my <b>stats</b>! </h2>
+</div>
 
 ###
 
@@ -21,11 +32,6 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Arzion032/Arzion032/output/pacman-contribution-graph-dark.svg">
 </picture>
 
-###
-
-- 🔭 I’m currently working on **ETL**
-
-- 🌱 I’m currently learning **PySpark, Databricks, AWS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
