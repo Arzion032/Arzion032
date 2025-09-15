@@ -79,30 +79,6 @@ Outside of programming, I’m into **dance 💃, modeling 📸, gym workouts �
 </picture>
 
 
-###
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
-</div>
-
 <div align="center">
 
 ---
@@ -114,19 +90,19 @@ Outside of programming, I’m into **dance 💃, modeling 📸, gym workouts �
 
 <p align="center">
 <a href="https://linkedin.com/in/melvin-sarabia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="melvin-sarabia" height="60" width="40" /></a>
-<img width="12" />
+<img width="20" />
 <a href="https://stackoverflow.com/users/26556726" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="26556726" height="60" width="40" /></a>
-<img width="12" />
+<img width="20" />
 <a href="https://kaggle.com/melvinsarabia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="melvinsarabia" height="60" width="40" /></a>
-<img width="12" />
+<img width="20" />
 <a href="https://fb.com/ratatoiulleyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ratatoiulleyy" height="60" width="40" /></a>
-<img width="12" />
+<img width="20" />
 <a href="https://instagram.com/melvss__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="melvss__" height="60" width="40" /></a>
-<img width="12" />
+<img width="20" />
 <a href="https://www.hackerrank.com/jmelvinsarabia01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jmelvinsarabia01" height="60" width="40" /></a>
-<img width="12" />
+<img width="20" />
 <a href="https://www.leetcode.com/arzion032" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arzion032" height="60" width="40" /></a>
-<img width="12" />
+<img width="20" />
 <a href="https://discord.gg/1029990723640098907" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1029990723640098907" height="60" width="40" /></a>
 </p>
 
