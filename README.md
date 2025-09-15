@@ -59,11 +59,11 @@
 <div align="center">
     <h2> Checkout my <b>stats</b>! </h2>
     <a href="https://github-readme-stats.vercel.app">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=arzion032&show_icons=true&locale=en" alt="Arzion032 Stats" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=arzion032&show_icons=true&locale=en&theme=dracula" alt="Arzion032 Stats" />
     </a>
     <h3> What languages do I code? </h3>
     <a href="https://git.io/streak-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arzion032&layout=compact&langs_count=10&theme=radical" alt="Arzion032 Programs" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arzion032&layout=compact&langs_count=10&theme=dracula" alt="Arzion032 Programs" />
     </a>
 
 </div>
