@@ -95,9 +95,9 @@ Outside of programming, I’m into **dance 💃, modeling 📸, gym workouts �
 <p align="center">
 <a href="https://linkedin.com/in/melvin-sarabia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="melvin-sarabia" height="60" width="40" /></a> 
 <img width="20" /> 
-<a href="https://www.datacamp.com/portfolio/arzion032" target="blank"><img align="center" src="https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/hq30ze9287y9ztkmcdhy" alt="1029990723640098907" height="60" width="40" /></a> 
-<img width="20" /> 
 <a href="https://www.hackerrank.com/jmelvinsarabia01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jmelvinsarabia01" height="60" width="40" /></a> 
+<img width="20" /> 
+<a href="https://www.datacamp.com/portfolio/arzion032" target="blank"><img align="center" src="https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/hq30ze9287y9ztkmcdhy" alt="1029990723640098907" height="60" width="40" /></a> 
 <img width="20" /> 
 <a href="https://stackoverflow.com/users/26556726" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="26556726" height="60" width="40" /></a> 
 <img width="20" /> 
