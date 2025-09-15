@@ -9,19 +9,19 @@ I want to specialize in **data/analytics engineering 🧹💾** — the art of c
 
 Outside of programming, I’m into **dance 💃, modeling 📸, gym workouts 🏋️, and kickboxing 🥊**.  
 
-<h4 align="left">Connect with me:</h4>
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Stack+Overflow&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
-</div>
 
-<h4 align="left">Connect with me:</h4>
-<p align="left">
+
+<div align="center">
+
+---
+
+<h3>Connect with me</h3>
+
+
+---
+
+<p align="center">
 <a href="https://linkedin.com/in/melvin-sarabia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="melvin-sarabia" height="30" width="40" /></a>
-<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
 <a href="https://stackoverflow.com/users/26556726" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="26556726" height="30" width="40" /></a>
 <a href="https://kaggle.com/melvinsarabia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="melvinsarabia" height="30" width="40" /></a>
 <a href="https://fb.com/ratatoiulleyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ratatoiulleyy" height="30" width="40" /></a>
@@ -31,6 +31,7 @@ Outside of programming, I’m into **dance 💃, modeling 📸, gym workouts �
 <a href="https://discord.gg/1029990723640098907" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1029990723640098907" height="30" width="40" /></a>
 </p>
 
+</div>
 
 <div align="center">
 
