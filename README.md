@@ -3,12 +3,14 @@
   <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=arzion032&label=Profile%20views&color=0e75b6&style=flat" alt="arzion032" /> </p> -->
 </div
 
+Hi 👋 I'm **Jhon Melvin P. Sarabia** and I’m passionate about all things **data & machine learning 🤖📊**.  
 
-Hi! I'm Jhon Melvin P. Sarabia and I’m passionate about all things data & machine learning 🤖📊.
+I want to specialize in **data/analytics engineering 🧹💾** — the art of cleaning, transforming, and building pipelines so others can unlock insights. Backend development also sparks my curiosity ⚙️.  
 
-I want to specialize in data engineering 🧹💾 — the art of cleaning, transforming, and building pipelines so others can unlock insights. Backend development also sparks my curiosity ⚙️.
+Outside of programming, I’m into **dance 💃, modeling 📸, gym workouts 🏋️, and kickboxing 🥊**.  
 
-Outside of programming, I’m into dance 💃, modeling 📸, gym workouts 🏋️, and kickboxing 🥊.
+---
+
 
 ###
 <div align="center">
