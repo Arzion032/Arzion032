@@ -93,47 +93,47 @@ Outside of programming, I’m into **dance 💃, modeling 📸, gym workouts �
 <h3>Connect with me:</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/melvin-sarabia" target="_blank" rel="noopener noreferrer">
+  <a href="https://linkedin.com/in/melvin-sarabia" target="blank" rel="noopener noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="melvin-sarabia" height="60" width="40" />
   </a>
   <img width="20" />
   
-  <a href="https://stackoverflow.com/users/26556726" target="_blank" rel="noopener noreferrer">
+  <a href="https://stackoverflow.com/users/26556726" target="blank" rel="noopener noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="26556726" height="60" width="40" />
   </a>
   <img width="20" />
   
-  <a href="https://www.leetcode.com/arzion032" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.leetcode.com/arzion032" target="blank" rel="noopener noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arzion032" height="60" width="40" />
   </a>
   <img width="20" />
   
-  <a href="https://www.hackerrank.com/jmelvinsarabia01" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.hackerrank.com/jmelvinsarabia01" target="blank" rel="noopener noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jmelvinsarabia01" height="60" width="40" />
   </a>
   <img width="20" />
   
-  <a href="https://kaggle.com/melvinsarabia" target="_blank" rel="noopener noreferrer">
+  <a href="https://kaggle.com/melvinsarabia" target="blank" rel="noopener noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="melvinsarabia" height="60" width="40" />
   </a>
   <img width="20" />
   
-  <a href="https://www.datacamp.com/portfolio/arzion032" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.datacamp.com/portfolio/arzion032" target="blank" rel="noopener noreferrer">
     <img align="center" src="https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/hq30ze9287y9ztkmcdhy" alt="datacamp-arzion032" height="60" width="40" />
   </a>
   <img width="20" />
   
-  <a href="https://discord.gg/1029990723640098907" target="_blank" rel="noopener noreferrer">
+  <a href="https://discord.gg/1029990723640098907" target="blank" rel="noopener noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="60" width="40" />
   </a>
   <img width="20" />
   
-  <a href="https://instagram.com/melvss__" target="_blank" rel="noopener noreferrer">
+  <a href="https://instagram.com/melvss__" target="blank" rel="noopener noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="melvss__" height="60" width="40" />
   </a>
   <img width="20" />
   
-  <a href="https://fb.com/ratatoiulleyy" target="_blank" rel="noopener noreferrer">
+  <a href="https://fb.com/ratatoiulleyy" target="blank" rel="noopener noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ratatoiulleyy" height="60" width="40" />
   </a>
 </p>
