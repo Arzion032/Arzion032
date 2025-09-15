@@ -108,6 +108,8 @@ Outside of programming, I’m into **dance 💃, modeling 📸, gym workouts �
 <a href="https://www.leetcode.com/arzion032" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arzion032" height="60" width="40" /></a>
 <img width="20" />
 <a href="https://discord.gg/1029990723640098907" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1029990723640098907" height="60" width="40" /></a>
+<img width="20" />
+<a href="https://www.datacamp.com/portfolio/arzion032" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/datacamp.svg" alt="1029990723640098907" height="60" width="40" /></a>
 </p>
 
 </div>
