@@ -40,7 +40,7 @@ Outside of programming, I’m into **dance 💃, modeling 📸, gym 🏋️, and
 ![dbt](https://img.shields.io/badge/dbt-white?style=for-the-badge&logo=dbt) 
 ![Spark](https://img.shields.io/badge/Spark-white?style=for-the-badge&logo=apachespark) 
 #### Cloud Computing
-![GCP](https://img.shields.io/badge/GCP-white?style=for-the-badge&logo=googlecloudplatform&logoColor=black) 
+![GCP](https://img.shields.io/badge/GCP-white?style=for-the-badge&logo=googlecloud)
 #### CI/CD
 ![Git](https://img.shields.io/badge/Git-white?style=for-the-badge&logo=git) 
 ![GitHub](https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=black)
@@ -49,6 +49,7 @@ Outside of programming, I’m into **dance 💃, modeling 📸, gym 🏋️, and
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-white?style=for-the-badge&logo=postgresql) 
 ![Snowflake](https://img.shields.io/badge/Snowflake-white?style=for-the-badge&logo=snowflake) 
 ![Supabase](https://img.shields.io/badge/Supabase-white?style=for-the-badge&logo=supabase) 
+![BigQuery](https://img.shields.io/badge/BigQuery-white?style=for-the-badge&logo=googlebigquery)
 #### Web Development
 ![HTML5](https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS-white?style=for-the-badge&logo=css3&logoColor=black)
