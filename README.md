@@ -52,9 +52,10 @@ Outside of programming, I’m into **dance 💃, modeling 📸, gym 🏋️, and
 ![BigQuery](https://img.shields.io/badge/BigQuery-white?style=for-the-badge&logo=googlebigquery)
 #### Web Development
 ![HTML5](https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS-white?style=for-the-badge&logo=css3&logoColor=black)
-![React.js](https://img.shields.io/badge/React.js-white?style=for-the-badge&logo=reactdotjs)
+![CSS3](https://img.shields.io/badge/CSS3-white?style=for-the-badge&logo=css3)
+![React](https://img.shields.io/badge/React-white?style=for-the-badge&logo=react)
 ![Django](https://img.shields.io/badge/Django-white?style=for-the-badge&logo=django)
+
 
 <div align="center">
 
