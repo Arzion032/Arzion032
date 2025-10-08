@@ -41,7 +41,7 @@ Outside of programming, I’m into **dance 💃, modeling 📸, gym 🏋️, and
 ![Spark](https://img.shields.io/badge/Spark-white?style=for-the-badge&logo=apachespark) 
 #### Cloud Computing
 ![GCP](https://img.shields.io/badge/GCP-white?style=for-the-badge&logo=googlecloud)
-![AWS](https://img.shields.io/badge/AWS-white?style=for-the-badge&logo=amazon-aws)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 #### CI/CD
 ![Git](https://img.shields.io/badge/Git-white?style=for-the-badge&logo=git) 
 ![GitHub](https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=black)
