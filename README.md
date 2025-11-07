@@ -40,6 +40,8 @@ Outside of programming, I’m into **dance 💃, modeling 📸, gym 🏋️, and
 ![Airflow](https://img.shields.io/badge/Airflow-white?style=for-the-badge&logo=apacheairflow&logoColor=black) 
 ![dbt](https://img.shields.io/badge/dbt-white?style=for-the-badge&logo=dbt) 
 ![Spark](https://img.shields.io/badge/Spark-white?style=for-the-badge&logo=apachespark) 
+![Kafka](https://img.shields.io/badge/Kafka-white?style=for-the-badge&logo=apachekafka&logoColor=black)
+
 #### Cloud Computing
 ![GCP](https://img.shields.io/badge/GCP-white?style=for-the-badge&logo=googlecloud)
 ![AWS](https://img.shields.io/badge/AWS-white?style=for-the-badge&logo=data:image/svg+xml;base64,...)
