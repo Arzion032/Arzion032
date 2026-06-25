@@ -3,9 +3,7 @@
   <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=arzion032&label=Profile%20views&color=0e75b6&style=flat" alt="arzion032" /> </p> -->
 </div
 
-Hi 👋 I'm **Jhon Melvin P. Sarabia** and I’m passionate about all things **data & machine learning 🤖📊**.  
-
-I want to specialize in **data/analytics engineering** 🧹💾 aiming to design reliable pipelines that power real-world AI and analytics applications. Backend development continues to capture my interest ⚙️.
+Hi 👋 I'm **Jhon Melvin P. Sarabia** 🤖📊💪.  
 
 
 <div style="margin-top: 15px;"></div>
